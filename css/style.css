@@ -304,6 +304,7 @@ body{
 .our-section{
     background-image: url(../images/our-bg.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
     overflow: hidden;
     padding: 220px 0 175px;
 }
